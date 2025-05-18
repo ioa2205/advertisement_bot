@@ -1,0 +1,7 @@
+# In .gitignore
+.venv/
+__pycache__/
+*.pyc
+ads_bot.db  # Add this if you don't want to commit the live DB
+*.sqlite3
+*.db
