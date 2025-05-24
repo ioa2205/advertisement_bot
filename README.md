@@ -1,4 +1,4 @@
-# Telegram Ad Posting Bot
+# [Telegram Ad Posting Bot](@easy_advertise_bot)
 
 A multi-lingual, conversational Telegram bot that helps users create and post "for sale" advertisements in a structured, step-by-step format. It supports various categories (e.g., Cars, Real Estate, Animals, Other) with category-specific questions, media uploads, and a review step before publishing to a designated Telegram channel or notifying an admin.
 
